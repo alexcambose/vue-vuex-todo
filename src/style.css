@@ -1,0 +1,22 @@
+.flex-center{
+  display: flex;
+}
+.mt-3{
+  margin-top: 3px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+small{
+  font-size: 12px;
+  opacity:.6;
+}
+.td{
+  color: #ff3860 !important;
+}
+.td * {
+  color: #ff3860 !important;
+}
+.justify-content-end{
+  justify-content: flex-end;
+}
