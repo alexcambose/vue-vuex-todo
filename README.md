@@ -1,4 +1,4 @@
-# a
+# vue-vuex-todo
 
 > A Vue.js project
 
