@@ -16,7 +16,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
-    "buefy": "^0.5.4",
+    "buefy": "^0.7.2",
     "moment": "^2.19.1",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0",
